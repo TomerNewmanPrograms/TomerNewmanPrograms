@@ -1,4 +1,4 @@
-<h1 align="center">😎 My Awesome Github 😎 </h1>
+<h1 align="center">😎 My Awesome GitHub 😎 </h1>
 <h2 align="center">By Tomer Newman </h2>
 
 <p align="center">
